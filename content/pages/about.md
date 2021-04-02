@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about me and my work.
+subtitle: This is a short page about Maple Seven's work .
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
