@@ -1,6 +1,6 @@
 ---
 title: Project 1 Detroit
-subtitle: lorem-ipsum
+subtitle: Detroit Project Summary Line
 img_alt: lorem-ipsum
 seo:
   title: ''
