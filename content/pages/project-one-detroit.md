@@ -5,17 +5,17 @@ excerpt: 'Summary of the start of the project '
 sections:
   - title: 'Round One: Detroit'
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## The Summary of Our Project
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: section_hero
 seo:
