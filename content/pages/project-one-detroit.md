@@ -1,7 +1,7 @@
 ---
 title: Round One Detroit
 hide_title: true
-excerpt: 'The Start '
+excerpt: 'Summary of the start of the project '
 sections: []
 seo:
   title: ''
