@@ -3,7 +3,7 @@ title: Round One Detroit
 hide_title: true
 excerpt: 'Summary of the start of the project '
 sections:
-  - title: lorem-ipsum
+  - title: 'Round One: Detroit'
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
