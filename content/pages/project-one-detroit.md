@@ -1,7 +1,7 @@
 ---
 title: Round One Detroit
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: 'The Start of '
 sections: []
 seo:
   title: ''
