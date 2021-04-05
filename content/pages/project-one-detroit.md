@@ -21,16 +21,12 @@ sections:
   - title: Community Information
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >
+    content: |
       ## Facts about the Community
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+      Facts about Detroit Community and Brief History.
 
       *   Lorem ipsum
-
       *   dolor sit amet
     actions: []
     type: section_content
