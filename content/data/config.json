@@ -7,7 +7,7 @@
         "title": "Maple Seven",
         "tagline": "Is this heaven? No! It's Maple Seven!",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
@@ -83,7 +83,7 @@
                 "new_window": true
             }
         ],
-        "profile_img": "images/purple-giraffe.jpg"
+        "profile_img": "images/wonderful-onion.jpg"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
