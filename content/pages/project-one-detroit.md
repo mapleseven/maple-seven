@@ -18,7 +18,7 @@ sections:
       *   dolor sit amet
     actions: []
     type: section_hero
-  - title: More Facts
+  - title: Community Information
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
