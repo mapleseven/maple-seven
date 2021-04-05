@@ -15,7 +15,7 @@ sections:
 
       *   Lorem ipsum
 
-      *   dolor sit amet
+      *   dolor sit amet![](/images/1.jpg)
     actions: []
     type: section_hero
   - title: Community Information
