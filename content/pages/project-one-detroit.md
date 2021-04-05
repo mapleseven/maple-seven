@@ -36,7 +36,7 @@ sections:
     type: section_content
   - title: More To See
     section_id: lorem-ipsum
-    posts_number: 10
+    posts_number: 0
     actions: []
     type: section_posts
 seo:
