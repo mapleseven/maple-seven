@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/square-onion.jpg
+content_img_path: images/purple-amaranth.jpg
 ---
 ## Who We Are
 
