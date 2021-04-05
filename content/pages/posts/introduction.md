@@ -1,6 +1,6 @@
 ---
 title: Introducing Maple 7
-subtitle: lorem-ipsum
+subtitle: Subtitle Maple 7
 date: '2021-04-05'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
