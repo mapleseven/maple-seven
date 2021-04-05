@@ -13,7 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_img_path: images/square-onion.jpg
+thumb_img_path: images/wonderful-onion.jpg
 content_img_path: images/purple-amaranth.jpg
 ---
 ## Who We Are
