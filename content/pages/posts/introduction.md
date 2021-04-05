@@ -2,7 +2,7 @@
 title: Introducing Maple 7
 subtitle: 'Is this heaven? No, it''s Maple 7.'
 date: '2021-04-05'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: mapleseven
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
