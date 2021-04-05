@@ -34,7 +34,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-  - title: Post Section
+  - title: More To See
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
