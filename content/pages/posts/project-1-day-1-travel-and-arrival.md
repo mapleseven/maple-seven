@@ -1,6 +1,6 @@
 ---
 title: Project 1 Day 1 Travel and Arrival
-subtitle: lorem-ipsum
+subtitle: Travel to Detroit
 date: '2021-04-08'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
